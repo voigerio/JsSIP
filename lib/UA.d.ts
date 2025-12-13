@@ -45,6 +45,7 @@ export interface UAConfiguration {
   use_preloaded_route?: boolean;
   user_agent?: string;
   extra_headers?: string[];
+  registration_call_id?: string;
 }
 
 export interface IncomingRTCSessionEvent {
