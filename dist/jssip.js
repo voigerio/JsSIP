@@ -1,5 +1,5 @@
 /*
- * JsSIP v3.10.1.1
+ * JsSIP v3.10.1-voiger-patches.1
  * the Javascript SIP library
  * Copyright: 2012-2025 
  * Homepage: https://jssip.net
@@ -24596,7 +24596,7 @@ module.exports={
   "name": "jssip",
   "title": "JsSIP",
   "description": "the Javascript SIP library",
-  "version": "3.10.1.1",
+  "version": "3.10.1-voiger-patches.1",
   "homepage": "https://jssip.net",
   "contributors": [
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
